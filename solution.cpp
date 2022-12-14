@@ -55,10 +55,7 @@ int main()
 	int t;
 	cin>>t;
 
-	while(true)
-	{
-		cout<<"Hello wordl";
-	}
+	cout<<t;
 
 }
 
